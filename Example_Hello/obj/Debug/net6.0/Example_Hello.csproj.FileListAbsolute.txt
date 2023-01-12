@@ -1,0 +1,15 @@
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\bin\Debug\net6.0\Example_Hello.exe
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\bin\Debug\net6.0\Example_Hello.deps.json
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\bin\Debug\net6.0\Example_Hello.runtimeconfig.json
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\bin\Debug\net6.0\Example_Hello.dll
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\bin\Debug\net6.0\Example_Hello.pdb
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.csproj.AssemblyReference.cache
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.AssemblyInfoInputs.cache
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.AssemblyInfo.cs
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.csproj.CoreCompileInputs.cache
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.dll
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\refint\Example_Hello.dll
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.pdb
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\Example_Hello.genruntimeconfig.cache
+C:\Users\hgala\GB_Programs\Level1\Lection1\Example_Hello\obj\Debug\net6.0\ref\Example_Hello.dll
